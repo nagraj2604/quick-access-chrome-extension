@@ -1,0 +1,14 @@
+{
+  "name": "Quick Access",
+  "description": "Open your daily using tabs in one click",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "action": {
+    "default_title": "Quick Access",
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "logo192.png",
+      "128": "logo192.png"
+    }
+  }
+}
